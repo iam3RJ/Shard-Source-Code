@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_flame.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flame start 0000" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="flame start 0001" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="flame start 0002" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="flame start 0003" x="0" y="1000" width="1000" height="1000"/>
+	<SubTexture name="flame burn 0000" x="1000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="flame burn 0001" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="flame burn 0002" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="flame burn 0003" x="1000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="flame burn 0004" x="2000" y="2000" width="1000" height="1000"/>
+</TextureAtlas>

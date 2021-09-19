@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="allseer_shard_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Allseer Dancing Beat0000" x="0" y="0" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0001" x="1700" y="0" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0002" x="3400" y="0" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0003" x="5100" y="0" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0004" x="6800" y="0" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0005" x="8500" y="0" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0006" x="10200" y="0" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0007" x="11900" y="0" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0008" x="0" y="1600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0009" x="1700" y="1600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0010" x="3400" y="1600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0011" x="5100" y="1600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0012" x="6800" y="1600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0013" x="8500" y="1600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0014" x="10200" y="1600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0015" x="11900" y="1600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0016" x="0" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0017" x="1700" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0018" x="3400" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Dancing Beat0019" x="5100" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0000" x="6800" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0001" x="8500" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0002" x="11900" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0003" x="0" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0004" x="11900" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0005" x="10200" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0006" x="10200" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0007" x="10200" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0008" x="10200" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Up Note0009" x="10200" y="3200" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Down Note0000" x="1700" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Down Note0001" x="3400" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Down Note0003" x="6800" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Down Note0004" x="8500" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Down Note0005" x="6800" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Down Note0006" x="5100" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Down Note0007" x="5100" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Down Note0008" x="5100" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Down Note0009" x="5100" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0000" x="10200" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0001" x="11900" y="4800" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0002" x="0" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0003" x="1700" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0004" x="3400" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0005" x="1700" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0006" x="0" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0007" x="0" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0008" x="0" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0009" x="0" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note00010" x="0" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Left Note0011" x="0" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0000" x="5100" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0001" x="6800" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0002" x="8500" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0003" x="10200" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0004" x="11900" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0005" x="10200" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0006" x="8500" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0007" x="8500" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0008" x="8500" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0009" x="8500" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0010" x="8500" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Right Note0011" x="8500" y="6400" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0000" x="0" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0001" x="1700" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0002" x="3400" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0003" x="5100" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0004" x="6800" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0005" x="5100" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0006" x="6800" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0007" x="5100" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0008" x="6800" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0009" x="5100" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Stun0010" x="6800" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Attack0000" x="8500" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Attack0001" x="10200" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Attack0002" x="11900" y="8000" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Attack0003" x="0" y="9600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+	<SubTexture name="Allseer Attack0004" x="1700" y="9600" width="1700" height="1600" frameWidth="1700" frameHeight="1600"/>
+</TextureAtlas>

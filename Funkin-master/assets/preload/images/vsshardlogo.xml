@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vsshardlogo.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumpin0000" x="0" y="0" width="1086" height="730" frameX="0" frameY="0" frameWidth="1086" frameHeight="730"/>
+	<SubTexture name="logo bumpin0001" x="1086" y="0" width="1086" height="730" frameX="0" frameY="0" frameWidth="1086" frameHeight="730"/>
+	<SubTexture name="logo bumpin0002" x="0" y="730" width="1086" height="730" frameX="0" frameY="0" frameWidth="1086" frameHeight="730"/>
+	<SubTexture name="logo bumpin0003" x="1086" y="730" width="1086" height="730" frameX="0" frameY="0" frameWidth="1086" frameHeight="730"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bossmodevsbg.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vs bg 10000" x="0" y="0" width="758" height="630"/>
+	<SubTexture name="vs bg 10001" x="758" y="0" width="758" height="630"/>
+	<SubTexture name="vs bg 10002" x="0" y="630" width="758" height="630"/>
+</TextureAtlas>

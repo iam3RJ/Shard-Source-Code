@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RJAnim.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rjvanish instance 10000" x="0" y="0" width="1282" height="752"/>
+	<SubTexture name="rjvanish instance 10001" x="1282" y="0" width="1282" height="752"/>
+	<SubTexture name="rjvanish instance 10002" x="2564" y="0" width="1282" height="752"/>
+	<SubTexture name="rjvanish instance 10003" x="0" y="752" width="1282" height="752"/>
+	<SubTexture name="rjvanish instance 10004" x="1282" y="752" width="1282" height="752"/>
+	<SubTexture name="rjvanish instance 10005" x="2564" y="752" width="1282" height="752"/>
+	<SubTexture name="rjvanish instance 10006" x="0" y="1504" width="1282" height="752"/>
+	<SubTexture name="rjvanish instance 10007" x="1282" y="1504" width="1282" height="752"/>
+	<SubTexture name="rjvanish instance 10008" x="2564" y="1504" width="1282" height="752"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="defaulthearts.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="five hearts 10000" x="0" y="0" width="800" height="160"/>
+	<SubTexture name="four hearts 10001" x="800" y="0" width="800" height="160"/>
+	<SubTexture name="three hearts 10002" x="1600" y="0" width="800" height="160"/>
+	<SubTexture name="two hearts 10003" x="0" y="160" width="800" height="160"/>
+	<SubTexture name="one heart 10004" x="800" y="160" width="800" height="160"/>
+	<SubTexture name="no hearts 10005" x="1600" y="160" width="800" height="160"/>
+</TextureAtlas>

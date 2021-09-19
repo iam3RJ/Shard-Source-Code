@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="undisturbedbg.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="energy back instance 10000" x="0" y="0" width="3600" height="2400"/>
+	<SubTexture name="energy back instance 10001" x="3600" y="0" width="3600" height="2400"/>
+	<SubTexture name="energy back instance 10002" x="7200" y="0" width="3600" height="2400"/>
+	<SubTexture name="energy back instance 10003" x="0" y="2400" width="3600" height="2400"/>
+	<SubTexture name="energy back instance 10004" x="3600" y="2400" width="3600" height="2400"/>
+</TextureAtlas>

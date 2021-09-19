@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ImmortalityIconsRJ.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Immortality Count0000" x="0" y="0" width="1200" height="1200"/>
+	<SubTexture name="Immortality Count0001" x="1200" y="0" width="1200" height="1200"/>
+	<SubTexture name="Immortality Count0002" x="2400" y="0" width="1200" height="1200"/>
+	<SubTexture name="Immortality Count0003" x="0" y="1200" width="1200" height="1200"/>
+	<SubTexture name="Immortality Count0004" x="1200" y="1200" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0000" x="2400" y="1200" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0001" x="0" y="2400" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0002" x="1200" y="2400" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0003" x="2400" y="1200" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0004" x="0" y="2400" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0005" x="1200" y="2400" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0006" x="2400" y="1200" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0007" x="0" y="2400" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0008" x="1200" y="2400" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0009" x="2400" y="1200" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0010" x="0" y="2400" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0011" x="1200" y="2400" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0012" x="2400" y="1200" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0013" x="0" y="2400" width="1200" height="1200"/>
+	<SubTexture name="Immortality Ready0014" x="1200" y="2400" width="1200" height="1200"/>
+</TextureAtlas>

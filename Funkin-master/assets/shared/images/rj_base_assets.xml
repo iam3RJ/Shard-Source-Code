@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rj_base_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rj idle0000" x="0" y="0" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0001" x="900" y="0" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0002" x="1800" y="0" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0003" x="2700" y="0" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0004" x="3600" y="0" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0005" x="4500" y="0" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0006" x="5400" y="0" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0007" x="6300" y="0" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0008" x="7200" y="0" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0009" x="0" y="900" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0010" x="900" y="900" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0011" x="1800" y="900" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0012" x="2700" y="900" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0013" x="3600" y="900" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0014" x="4500" y="900" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0015" x="5400" y="900" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0016" x="6300" y="900" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0017" x="7200" y="900" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0018" x="0" y="1800" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj idle0019" x="900" y="1800" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj right0000" x="1800" y="1800" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj right0001" x="2700" y="1800" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj right0002" x="3600" y="1800" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj right0003" x="4500" y="1800" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj right0004" x="5400" y="1800" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj left0000" x="6300" y="1800" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj left0001" x="7200" y="1800" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj left0002" x="0" y="2700" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj left0003" x="900" y="2700" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj left0004" x="1800" y="2700" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj up0000" x="2700" y="2700" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj up0001" x="3600" y="2700" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj up0002" x="4500" y="2700" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj up0003" x="5400" y="2700" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj up0004" x="6300" y="2700" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj down0000" x="7200" y="2700" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj down0001" x="0" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj down0002" x="900" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj down0003" x="1800" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj down0004" x="2700" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0000" x="3600" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0001" x="4500" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0002" x="5400" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0003" x="5400" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0004" x="5400" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0005" x="5400" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0006" x="5400" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0007" x="5400" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0008" x="5400" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss right0009" x="5400" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0000" x="6300" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0001" x="7200" y="3600" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0002" x="0" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0003" x="0" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0004" x="0" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0005" x="0" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0006" x="0" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0007" x="0" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0008" x="0" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss left0009" x="0" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0000" x="900" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0001" x="1800" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0002" x="2700" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0003" x="2700" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0004" x="2700" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0005" x="2700" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0006" x="2700" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0007" x="2700" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0008" x="2700" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss up0009" x="2700" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0000" x="3600" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0001" x="4500" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0002" x="5400" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0003" x="5400" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0004" x="5400" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0005" x="5400" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0006" x="5400" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0007" x="5400" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0008" x="5400" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj miss down0009" x="5400" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0000" x="6300" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0001" x="7200" y="4500" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0002" x="0" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0003" x="900" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0004" x="1800" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0005" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0006" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0007" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0008" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0009" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0010" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0011" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0012" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0013" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0014" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0015" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0016" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0017" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0018" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0019" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0020" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0021" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0022" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0023" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj fail0024" x="2700" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0000" x="3600" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0001" x="3600" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0002" x="4500" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0003" x="4500" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0004" x="5400" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0005" x="5400" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0006" x="6300" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0007" x="6300" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0008" x="7200" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0009" x="7200" y="5400" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0010" x="0" y="6300" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj retry0011" x="0" y="6300" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj return0000" x="900" y="6300" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj return0001" x="1800" y="6300" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj return0002" x="2700" y="6300" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj return0003" x="3600" y="6300" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="rj return0004" x="4500" y="6300" width="900" height="900" frameX="0" frameY="0" frameWidth="900" frameHeight="900"/>
+</TextureAtlas>
